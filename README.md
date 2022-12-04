@@ -1,19 +1,19 @@
 # Práctica APC Kaggle UAB 2022-23
-# Nombre: Mikhail Peskov
+# Name: Mikhail Peskov
 # DATASET: Students Performance in Exams
 # URL: https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
 
-## Resum
+## Resume
 El dataset utilitza dades de...
 Tenim X dades amb N atributs. Un % d'ells és categoric / els altres són numérics i estàn normalitzats...
 
-### Objectius del dataset
+### Dataset objectives
 Volem aprender quina és la ...
 
 ## Experiments
 Durant aquesta pràctica hem realitzat diferents experiments.
 
-### Preprocessat
+### Preprocessing
 Quines proves hem realitzat que tinguin a veure amb el pre-processat? com han afectat als resultats?
 
 ### Model
@@ -34,7 +34,6 @@ Per tal de fer una prova, es pot fer servir amb la següent comanda
 El millor model que s'ha aconseguit ha estat...
 En comparació amb l'estat de l'art i els altres treballs que hem analitzat....
 
-## Idees per treballar en un futur
+## Future work
 Crec que seria interesant indagar més en...
-## Llicencia
-El projecte s’ha desenvolupat sota llicència ZZZz.
+
